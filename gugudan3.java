@@ -7,7 +7,7 @@ public class gugudan3 {
 		int i = 1;
 		int n = scan.nextInt();
 		while(i < 10) {
-			System.out.println(n + " x " + i + " = " + i);
+			System.out.println(n + " x " + i + " = " + n*i);
 			i++;
 		}
 	}
